@@ -22,7 +22,7 @@ const Player = () => {
         <div className='flex items-center gap-5'>
           <p>1:06</p>
           <div className=' w-[60vw] max-w-[500px] bg-gray-300 rounded-full cursor-pointer'>
-            <hr className=' h-1 border-none w-20 bg-green-800 rounded-full'/>
+            <hr className=' h-1 border-none w-24 bg-green-800 rounded-full'/>
           </div>
           <p>1:06</p>
         </div>
